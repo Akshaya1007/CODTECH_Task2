@@ -1,0 +1,118 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color:antiquewhite;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#todo-form {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+#todo-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+button.delete {
+    background-color: #dc3545;
+}
+
+button.delete:hover {
+    background-color: #c82333;
+}
+
+#notification {
+    text-align: center;
+    color: #28a745;
+    margin-top: 10px;
+}
+
+/* Existing styles */
+
+button.edit {
+    background-color:  #e0e246;
+    color: #000;
+    margin-right: 10px;
+}
+
+button.edit:hover {
+    background-color:khaki;
+}
+
+
+/* Existing styles */
+
+button.save {
+    background-color: #28a745;
+    color: #fff;
+}
+
+button.save:hover {
+    background-color: #218838;
+}
+
+.edit-input {
+    width: 70%;
+    margin-right: 10px;
+}
+
+.save-task {
+    background-color: #d4edda;
+    border: 1px solid #c3e6cb;
+    color: #155724;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.saved-status {
+    font-size: 0.9em;
+    color: green;
+    margin-left: 10px;
+}
