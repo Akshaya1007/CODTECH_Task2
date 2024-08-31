@@ -15,6 +15,7 @@ OVERVIEW OF THE PROJECT :-
 Project Name : To-Do List Application
 
 Description :
+
 This To-Do List application is a simple yet powerful tool that allows users to manage their tasks efficiently. It includes features for adding, editing, deleting, and saving tasks. Additionally, users can save individual tasks as text files directly to their laptops, providing flexibility in how they manage and store their tasks.
 
 Key Features :
@@ -63,4 +64,5 @@ Challenges & Considerations:
 - Data Persistence: While local storage ensures that tasks persist across sessions, it is specific to the browser and device, meaning tasks won’t be available across different browsers or devices.
 
 Conclusion :
+
 This project offers a balance between simplicity and functionality, making it suitable for users who need a straightforward task management tool with the added capability of saving tasks to their local files.
