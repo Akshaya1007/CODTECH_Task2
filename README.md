@@ -66,3 +66,12 @@ Challenges & Considerations:
 Conclusion :
 
 This project offers a balance between simplicity and functionality, making it suitable for users who need a straightforward task management tool with the added capability of saving tasks to their local files.
+
+OUTPUT : 
+
+![Screenshot_2024-09-01-17-22-49-699_com miui gallery](https://github.com/user-attachments/assets/4248cd96-960a-464a-b561-3695c19adacf)
+
+![Screenshot_2024-09-01-17-23-42-234_com miui gallery](https://github.com/user-attachments/assets/7d947338-ee08-4bfb-964b-1a962e4f55b4)
+
+
+
